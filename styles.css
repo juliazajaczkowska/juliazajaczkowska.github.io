@@ -1,1 +1,5 @@
 /* css styles */
+#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a > span {
+  color: darkviolet;
+  font-style: italic;
+}
